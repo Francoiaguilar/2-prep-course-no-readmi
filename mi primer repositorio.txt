@@ -1,3 +1,12 @@
-franco ivan aguilar
+Repositorio Sin readme
 
-Hola mundo !
+una vez creado el repositorio:
+
+1- tener un repo creado de forma local en nuestra computadora
+2- luego de crearlo sin readme aparecen instrucciones a seguir
+3- debo copiar las instrucciones que 1 por una y pegarlas dentro de git bash, (estando dentro de la carpeta que esta alamcenadad de forma local para lograr que sea subida como readme en el erepositorio de git hub)
+
+duda: 
+
+cuando la rama esta en (main) no me deja subir el repo.
+pero cuando esta en (master) si me deja.
